@@ -1,82 +1,91 @@
-# Bernardo Prestes
-## 
+<h1 align="center"> Olá, eu sou o Bernardo Prestes</h1>
 
-Me chamo Bernardo Prestes, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software. Tenho experiência na área administrativa e interesse crescente na área de tecnologia. Já participei de intercâmbio acadêmico em Portugal, focado em Gestão de Produção e Qualidade. Atualmente me desenvolvendo em lógica de programação, HTML, CSS, Python e Java. Tenho também interesse por ferramentas de análise de dados como Excel avançado e Power BI.
-
-</a> 
-    <a href="https://github.com/BePrestes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BePrestes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-  </a>
-    <a href="https://github.com/BePrestes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BePrestes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <b>Desenvolvedor Back-end (Java | PHP)</b><br>
+  Estudante de Engenharia de Software • Sul do Brasil
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim:
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Me chamo **Bernardo Prestes**, sou natural do Sul do Brasil e atualmente curso **Engenharia de Software** na Uninter.  
+Tenho foco no back-end, especialmente em **Java, PHP e bancos de dados**.  
+Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo e evoluindo.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+<div align="center">
 
-### 📊 Estatísticas
+[![GitHub Followers](https://img.shields.io/github/followers/BePrestes?label=Seguidores&style=for-the-badge)](https://github.com/BePrestes)
+[![GitHub Stars](https://img.shields.io/github/stars/BePrestes?label=Estrelas&style=for-the-badge)](https://github.com/BePrestes?tab=repositories)
+[![Portfolio Badge](https://img.shields.io/badge/Portfólio-Em%20Desenvolvimento-blue?style=for-the-badge)]()
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+---
 
+## 🚀 Tecnologias e Ferramentas
+
+###  Back-end
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+
+###  Ferramentas
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 **CRUD em Java + PostgreSQL**  
+CRUD completo com JDBC, MVC e boas práticas.
+
+🔹 **To-do List**  
+Aplicação simples para treinar lógica e front básico.
+
+🔹 **Formulário de Cadastro**  
+Validação de inputs e design limpo.
+
+🔹 **Relógio Digital**  
+Mini-projeto front-end para prática de DOM.
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor back-end  
+- Aprofundar Java e Spring Boot  
+- Aprender PHP moderno e APIs  
+
+---
+
+## 📬 Contato
+
+📧 **E-mail:** bernardo_prestes02@hotmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/bernardoprestes/  
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 🚀</p>
