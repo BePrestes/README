@@ -25,7 +25,7 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ###  Back-end
 <div>
@@ -45,7 +45,7 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   
@@ -56,23 +56,23 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
-🔹 **CRUD em Java + PostgreSQL**  
+**CRUD em Java + PostgreSQL**  
 CRUD completo com JDBC, MVC e boas práticas.
 
-🔹 **To-do List**  
+**To-do List**  
 Aplicação simples para treinar lógica e front básico.
 
-🔹 **Formulário de Cadastro**  
+**Formulário de Cadastro**  
 Validação de inputs e design limpo.
 
-🔹 **Relógio Digital**  
+**Relógio Digital**  
 Mini-projeto front-end para prática de DOM.
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Evoluir como desenvolvedor back-end  
 - Aprofundar Java e Spring Boot  
@@ -80,10 +80,10 @@ Mini-projeto front-end para prática de DOM.
 
 ---
 
-## 📬 Contato
+##  Contato
 
-📧 **E-mail:** bernardo_prestes02@hotmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/bernardoprestes/  
+**E-mail:** bernardo_prestes02@hotmail.com  
+**LinkedIn:** https://www.linkedin.com/in/bernardoprestes/  
 
 ---
 
