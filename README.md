@@ -47,23 +47,18 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 
 ##  Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<div align="center">
+  <img
+    height="200"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=1800"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="200"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias&hide_border=true&cache_seconds=1800"
   />
-
-</p>
+</div>
 
 
 ---
