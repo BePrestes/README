@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou o Bernardo Prestes</h1>
 
 <p align="center">
-  <b>Desenvolvedor Back-end (Java | PHP)</b><br>
+  <b>Desenvolvedor Web (PHP/JavaScript)</b><br>
   Estudante de Engenharia de Software • Sul do Brasil
 </p>
 
@@ -10,7 +10,7 @@
 ## Sobre mim:
 
 Me chamo **Bernardo Prestes**, sou natural do Sul do Brasil e atualmente curso **Engenharia de Software** na Uninter.  
-Tenho foco no back-end, especialmente em **Java, PHP e bancos de dados**.  
+Tenho foco no back-end, especialmente em **PHP, JavaScript e bancos de dados**.  
 Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo e evoluindo.
 
 ---
@@ -29,9 +29,7 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 
 ###  Back-end
 <div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
 </div>
@@ -41,8 +39,6 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
-  <img height="40" src = "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
 </div>
 
 ---
