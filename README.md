@@ -30,6 +30,7 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 ###  Back-end
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
 </div>
@@ -59,29 +60,6 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 </div>
 
 
----
-
-##  Projetos em Destaque
-
-**CRUD em Java + PostgreSQL**  
-CRUD completo com JDBC, MVC e boas práticas.
-
-**To-do List**  
-Aplicação simples para treinar lógica e front básico.
-
-**Formulário de Cadastro**  
-Validação de inputs e design limpo.
-
-**Relógio Digital**  
-Mini-projeto front-end para prática de DOM.
-
----
-
-##  Objetivos
-
-- Evoluir como desenvolvedor back-end  
-- Aprofundar Java e Spring Boot  
-- Aprender PHP moderno e APIs  
 
 ---
 
