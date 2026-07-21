@@ -40,7 +40,7 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
   <tr>
     <td valign="top" width="50%">
       <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=BePrestes&theme=transparent&hide_border=true"/>
     </td>
     <td v
 
