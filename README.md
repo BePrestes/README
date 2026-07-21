@@ -35,7 +35,6 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
   
 </div>
 
- 📊 Estatísticas
 
 <table>
   <tr>
@@ -43,9 +42,10 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
       <h2>📊 GitHub Stats</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=BePrestes&theme=transparent&hide_border=true"/>
     </td>
-    <td v
-
-###  Ferramentas
+    
+  <br>  
+    <td 
+  ###  Ferramentas
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
