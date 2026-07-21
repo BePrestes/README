@@ -34,7 +34,8 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
 </div>
-## 📊 Estatísticas
+
+ 📊 Estatísticas
 
 <table>
   <tr>
