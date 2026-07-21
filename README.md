@@ -34,7 +34,15 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
 </div>
+## 📊 Estatísticas
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true"/>
+    </td>
+    <td v
 
 ###  Ferramentas
 <div>
