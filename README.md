@@ -57,9 +57,9 @@ Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=transparent&hide_border=true"/>
+
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BePrestes&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
