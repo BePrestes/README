@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bernardo Prestes 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web • PHP • JavaScript • PostgreSQL</b><br>
+  <b>Desenvolvedor Web (PHP • JavaScript)</b><br>
   Estudante de Engenharia de Software
 </p>
 
@@ -9,11 +9,21 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software** com foco em desenvolvimento web.
+Me chamo **Bernardo Prestes**, sou natural do Sul do Brasil e atualmente curso **Engenharia de Software** na Uninter.
 
-Tenho experiência no desenvolvimento de aplicações utilizando **PHP**, **JavaScript** e **PostgreSQL**, sempre buscando escrever código limpo, organizado e de fácil manutenção.
+Tenho foco no back-end, especialmente em **PHP, JavaScript e bancos de dados**.
 
-Atualmente estou desenvolvendo projetos voltados para sistemas web, CRUDs, landing pages e um sistema SaaS para gestão empresarial.
+Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo e evoluindo.
+
+---
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/BePrestes?label=Seguidores&style=for-the-badge)](https://github.com/BePrestes)
+[![GitHub Stars](https://img.shields.io/github/stars/BePrestes?label=Estrelas&style=for-the-badge)](https://github.com/BePrestes?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Em%20Desenvolvimento-blue?style=for-the-badge)]()
+
+</div>
 
 ---
 
@@ -22,61 +32,46 @@ Atualmente estou desenvolvendo projetos voltados para sistemas web, CRUDs, landi
 ### Back-end
 
 <p>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ### Front-end
 
 <p>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
 ### Ferramentas
 
 <p>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
-
----
-
-## 📌 Projetos em destaque
-
-- 🌐 Landing Pages Responsivas
-- 👥 Sistema de Cadastro de Clientes (PHP + PostgreSQL)
-- 🏢 Alfa Studio Manager *(em desenvolvimento)*
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BePrestes&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&theme=transparent"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BePrestes&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail:** bernardo_prestes02@hotmail.com
+**E-mail:** bernardo_prestes02@hotmail.com
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/bernardoprestes/
+**LinkedIn:** https://www.linkedin.com/in/bernardoprestes/
 
 ---
 
 <p align="center">
-
-Sempre aberto a oportunidades de estágio e desenvolvimento web.
-
+Obrigado por visitar meu perfil! 🚀
 </p>
