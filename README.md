@@ -1,67 +1,82 @@
-<h1 align="center"> Olá, eu sou o Bernardo Prestes</h1>
+<h1 align="center">Olá, eu sou o Bernardo Prestes 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web (PHP/JavaScript)</b><br>
-  Estudante de Engenharia de Software • Sul do Brasil
+  <b>Desenvolvedor Web • PHP • JavaScript • PostgreSQL</b><br>
+  Estudante de Engenharia de Software
 </p>
 
 ---
 
-## Sobre mim:
+## 🚀 Sobre mim
 
-Me chamo **Bernardo Prestes**, sou natural do Sul do Brasil e atualmente curso **Engenharia de Software** na Uninter.  
-Tenho foco no back-end, especialmente em **PHP, JavaScript e bancos de dados**.  
-Gosto de construir sistemas organizados, limpos e funcionais, sempre aprendendo e evoluindo.
+Sou estudante de **Engenharia de Software** com foco em desenvolvimento web.
 
----
+Tenho experiência no desenvolvimento de aplicações utilizando **PHP**, **JavaScript** e **PostgreSQL**, sempre buscando escrever código limpo, organizado e de fácil manutenção.
 
-<div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/BePrestes?label=Seguidores&style=for-the-badge)](https://github.com/BePrestes)
-[![GitHub Stars](https://img.shields.io/github/stars/BePrestes?label=Estrelas&style=for-the-badge)](https://github.com/BePrestes?tab=repositories)
-[![Portfolio Badge](https://img.shields.io/badge/Portfólio-Em%20Desenvolvimento-blue?style=for-the-badge)]()
-
-</div>
+Atualmente estou desenvolvendo projetos voltados para sistemas web, CRUDs, landing pages e um sistema SaaS para gestão empresarial.
 
 ---
 
-##  Tecnologias e Ferramentas
+## 💻 Tecnologias
 
-###  Back-end
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
-</div>
+### Back-end
 
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=BePrestes&theme=transparent&hide_border=true"/>
-    </td>
-    
-  <br>  
-    <td 
-  ###  Ferramentas
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+### Front-end
 
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
 
+### Ferramentas
 
-
+<p>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
 
 ---
 
-##  Contato
+## 📌 Projetos em destaque
 
-**E-mail:** bernardo_prestes02@hotmail.com  
-**LinkedIn:** https://www.linkedin.com/in/bernardoprestes/  
+- 🌐 Landing Pages Responsivas
+- 👥 Sistema de Cadastro de Clientes (PHP + PostgreSQL)
+- 🏢 Alfa Studio Manager *(em desenvolvimento)*
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! 🚀</p>
+## 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BePrestes&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BePrestes&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BePrestes&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** bernardo_prestes02@hotmail.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/bernardoprestes/
+
+---
+
+<p align="center">
+
+Sempre aberto a oportunidades de estágio e desenvolvimento web.
+
+</p>
